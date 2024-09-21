@@ -14,7 +14,7 @@ Analista de garantia de qualidade de software é um bootcamp da Tripleten, foram
 - Sprint 6 - Projeto final
 - - <a href="https://docs.google.com/spreadsheets/d/1SZEBHCgPw29HALzu5Z8rQ2_EPCDEJj9z/edit?gid=1577317816#gid=1577317816">Projeto Final</a>
 
-Caso tenha mais interesse em saber mais sobre cada tema e o que foi solicitado em cada projeto, segue um breve resumo de cada Sprint.
+Caso tenha dispertado interesse em saber mais sobre a tragetória de cada Sprint e o que foi solicitado em cada projeto, lhe convido a ler um breve resumo de cada Sprint.
 
 ## Sprint 1 - Noções Básicas de Teste
 ##### Capítulo 1 -  Introdução à análise de QA
