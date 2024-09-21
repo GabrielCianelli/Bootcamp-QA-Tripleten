@@ -1,4 +1,4 @@
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Logo-Tripleten.png">
+ <img src="Imagem\Logo-Tripleten.jpg">
 
 # Bootcamp QA
 Analista de garantia de qualidade de software é um bootcamp da Tripleten, foram abordados diversos temas da área e realizados 5 projetos, divididos em 6 sprints, segue a lista com os temas e projetos:
@@ -51,7 +51,7 @@ Caso tenha mais interesse em saber mais sobre cada tema e o que foi solicitado e
 - Criação de relatórios de bug
 ##### Capítulo 7 - Projeto sprint 1
 Neste projeto, foi realizado um teste de regressão de um aplicativo de rotas chamado Urban Routes. O Urban Routes é um aplicativo que cria rotas e calcula o tempo e custo da viagem para diferentes tipos de transporte. A interface é bem simples: há dois campos para endereços, "De" e "Para". Além disso, há três modos ("Optimal," "Flash" e "Personal"), bem como ícones para os tipos de transporte (o carro do próprio usuário, a pé, táxi, bicicleta, scooter ou compartilhamento de carro).
-<img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\home-interface-Sprint-1.png">
+<img src="Imagem\home-interface-Sprint-1.png">
 Depois que o usuário envia seus locais "De" e "Para", o aplicativo recebe essas informações como pontos "A" e "B". Depois disso, ele calcula o tempo e custo total da viagem usando um algoritmo específico.
 
 - O objetivo é executar casos de teste pré definidos para o teste de regressão do Urban Routes.
@@ -74,7 +74,7 @@ Parte 2 - Criar relatórios de bugs
 No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bugs e Casos de teste e no projeto, os temas foram abordaados na pratica, realizando testes de fumaça, relatórios de bugs e a pratica de testes de regressão. Os testes de interface manual, garante testar novos recursos de software, garantir que as alterações no software não criem novos erros e criar relatórios de bugs completos que descrevem problemas com o software. E esta foi minha primeira experiência em QA.
 - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>teste de fumaça, teste de regreção e relatório de bugs</strong>.
 
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Certificado-Sprint-1.png">
+ <img src="Imagem\Certificado-Sprint-1.png">
 
 
  ## Sprint 2 - Design de Teste
@@ -104,7 +104,7 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  ##### Capítulo 5 - Projeto sprint 2
  Neste projeto, foi decomposto os requisitos e feito design de alguns testes. Foi mantido o aplicativo Urban Routes e a tarefa foi projetar testes para o formulário "Adicionar carteira de motorista".
  
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\formulário- carteira-de-motorista-Sprint-2.png">
+ <img src="Imagem\formulário- carteira-de-motorista-Sprint-2.png">
  
  - O objetivo projetar os testes com a ajuda das técnicas de design de teste e escrever casos de teste.
  
@@ -133,7 +133,7 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  Criar mapas mentais e fluxogrmas ajudam a organização como um todo entender a aplicação ou funcionalidade, além de nos dar uma visão mais geral e holística sobre como as coisas devem funcionar. Definir classes de equivalência e criar casos de testes é muito importante quando falamos de testes, assim haverá uma boa cobertura de testes em um sistema. Foi necessaario identificar objetos de teste e decompor requisitos, ientificar áreas cinzentas nos requisitos e diferenciar entre requisitos funcionais e não funcionais. Assim concluindo o quão corretamente as técnicas de design de teste foram aplicadas e quais valores de teste foram definidos, podendo verificar quão estruturados e detalhados foram escritos os casos de teste.
  - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>analisar requisitos, design de teste e escrever casos de teste</strong>.
  
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Certificado-Sprint-2.png">
+ <img src="Imagem\Certificado-Sprint-2.png">
 
  ## Sprint 3 - Teste de Aplicativos Web
  ##### Capítulo 1 - Teste de Aplicativos Web
@@ -177,25 +177,25 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  - Teste de pares
  ##### Capítulo 7 - Projeto sprint 3
  Neste projeto foi testado a funcionalidade de compartilhamento de carros do Urban Routes.
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Layout-1-Sprint3.png">
+ <img src="Imagem\Layout-1-Sprint3.png">
  
  <a href="https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/PTBR/v6/Requisitos_da_funcionalidade_Carsharing.pdf">Os requisitos do back-end estão aqui.</a>
  Parte 1 - Criar um checklist para o layout do formulário de reserva
  - Escolha só uma opção de corrida
  - Preste atenção à ortografia, disposição dos elementos e a aparência deles
  - Se atentar aos pop-ups: "Carro reservado", "Você tem certeza que quer cancelar sua viagem?" e "Viagem cancelada".
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Layout-2-Sprint-3.png">
+ <img src="Imagem\Layout-2-Sprint-3.png">
  
  Parte 2 - Criar um checklist para a funcionalidade das janelas "Método de pagamento" e Adicionar cartão"
  - Checklist, com uso de particionamento de classes de equivalência e análise de valores-limite.
  - Testes positivos e negativos.
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Layout-3-Sprint-3.png">
+ <img src="Imagem\Layout-3-Sprint-3.png">
  Parte 3 - Preparar os casos de teste para o botão "Reservar"
  - Casos de teste para o botão "Reservar".
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Layout-4-Sprint-3.png">
+ <img src="Imagem\Layout-4-Sprint-3.png">
  Parte 4 - Preparar os casos de teste para a função de locação de carro
  - Consulte a seção "Reservar carro" dos requisitos.
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Layout-5-Sprint-3.png">
+ <img src="Imagem\Layout-5-Sprint-3.png">
  #### Tecnologias
  - Google Chorome
  - Firefox
@@ -208,7 +208,7 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  ##  Conclusão
  Neste sprint, foram estudados design de testes, testes de formulário, testes funcionais e realizar testes de interface do usuário, testes de layout e criar relatórios de bugs no Jira. Habilidades para se tornar proficiente em testes de design de layout e aprimorar a atenção aos detalhes. Aprender designs de layout fornece habilidades para garantir que os designs se adaptem perfeitamente a vários tamanhos de tela e dispositivos, criando uma experiência amigável e contribuir para melhorar a qualidade de um software.
  - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>Ratreamento de bugs, Jira e Teste de interface de usuário</strong>.
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Certificado-Sprint-3.png">
+ <img src="Imagem\Certificado-Sprint-3.png">
 
  ## Sprint 4 - Teste de API
  ##### Capítulo 1 - Teste de API
@@ -256,7 +256,7 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  ##  Conclusão
  Neste sprint, foram estudados a criação e envio de solicitações à API via Postman,  criação de documentação e testes da API, interações de solicitação-resposta e protocolos de troca de dados, aprimoramento na capacidade de identificar problemas, todo relatório de bug possui um corpo de solicitação e um corpo de resposta. Essas informações são cruciais para reproduzir bugs relacionados à API e testar aplicativos web — front-end e back-end.
  - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>HTTP, Teste de API e Postman</strong>.
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagem\Certificado-Sprint-4.png">
+ <img src="Imagem\Certificado-Sprint-4.png">
 
  ## Sprint 6 - Projeto final
 Neste projeto foi realizado três tarefas grandes e testar aplicativos da web e APIs. Utilizando o aplicativo Urban.Scoote, um serviço que permite alugar uma scooter elétrica por alguns dias.
