@@ -341,4 +341,5 @@ Parte 3 - lista de verificação
 ## Conclusão
 Neste projeto, foi possível decompor os requisitos e fazer o design de testes, dividir os recursos em blocos atômicos e defina objetos de teste, fazer o design de testes para lidar com todos os requisitos, aplicar o conhecimento de classes de equivalência, valores-limite e uma tabela de decisão quando necessário, otimizar o número de testes nos testes de interface de usuário e testes lógicos dos recursos, executar testes e relatórios de bug e usar Postman para verificar solicitações para determinadas URLs, utilizando todo o aprendizados adquiridos nos sprints anteriores, finalizando assim o curso de Analista de QA.
  - Neste Sprint conclui o bootcamp e exerci algumas habilidades fundamentais para me tornar um: <strong>Analista de  QA</strong>.
- <img src="C:\Users\Cia\Desktop\Estudo\Analista de QA\Curso de preparação de carreira\Github\Projetos QA\Imagens\Certificado-Sprint-6.png">
+
+<img src="Imagens\Certificado-Sprint-6.png">
