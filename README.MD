@@ -14,7 +14,7 @@ Analista de garantia de qualidade de software é um bootcamp da Tripleten, foram
 - Sprint 6 - Projeto final
 - - <a href="https://docs.google.com/spreadsheets/d/1SZEBHCgPw29HALzu5Z8rQ2_EPCDEJj9z/edit?gid=1577317816#gid=1577317816">Projeto Final</a>
 
-Caso tenha dispertado interesse em saber mais sobre a tragetória de cada Sprint e o que foi solicitado em cada projeto, lhe convido a ler um breve resumo de cada Sprint.
+Caso tenha despertado interesse em saber mais sobre a trajetória de cada Sprint e o que foi solicitado em cada projeto, lhe convido a ler um breve resumo de cada Sprint.
 
 ## Sprint 1 - Noções Básicas de Teste
 ##### Capítulo 1 -  Introdução à análise de QA
@@ -58,21 +58,21 @@ Depois que o usuário envia seus locais "De" e "Para", o aplicativo recebe essas
 
 Parte 1 - Executar casos de teste
 - Os casos de teste no modelo estão formatados como uma tabela e possuem os seguintes campos: ID, Nome do caso de teste, Pré-condição, Descrição da etapa e Resultado esperado.
-- Os campos necessarios a preencher são: Status e ID do bug
+- Os campos necessários a preencher são: Status e ID do bug
   
 Parte 2 - Criar relatórios de bugs
 - Para documentar os bugs encontrados, foi necessário preencher os campos: ID, título, etapas, resultados esperado e real e prioridade.
 
 #### Tecnologias
-- Google Chorome
-- Exel
+- Google Chrome
+- Excel
 
 #### Projeto
 <a href="https://docs.google.com/spreadsheets/d/1D5kz6I04m5i_-7ywnRG_wSlTmoWGeM9Q/edit?usp=sharing&ouid=100655884897172817871&rtpof=true&sd=true" target="_blank">Projeto 1 - clique aqui!</a>
 
 ##  Conclusão
-No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bugs e Casos de teste e no projeto, os temas foram abordaados na pratica, realizando testes de fumaça, relatórios de bugs e a pratica de testes de regressão. Os testes de interface manual, garante testar novos recursos de software, garantir que as alterações no software não criem novos erros e criar relatórios de bugs completos que descrevem problemas com o software. E esta foi minha primeira experiência em QA.
-- Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>teste de fumaça, teste de regreção e relatório de bugs</strong>.
+No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bugs e Casos de teste e no projeto, os temas foram abordados na prática, realizando testes de fumaça, relatórios de bugs e a prática de testes de regressão. Os testes de interface manual, garante testar novos recursos de software, garantir que as alterações no software não criem novos erros e criar relatórios de bugs completos que descrevem problemas com o software. E esta foi minha primeira experiência em QA.
+- Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>teste de fumaça, teste de regressão e relatório de bugs</strong>.
 
  <img src="Imagem\Certificado-Sprint-1.png">
 
@@ -115,14 +115,14 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  - Criar um mapa mental e um fluxograma da interface
  
  Parte 2 - Definir as classes
- - Definir as classes de equivalência, valores-limites de distancia e horarios entre os enderenços e criar um fluxograma
+ - Definir as classes de equivalência, valores-limites de distancia e horários entre os endereços e criar um fluxograma
  
  Parte 3 - Escreva os casos de teste conforme os valores de teste escolhidos
  - Use os valores de teste escolhidos na tarefa anterior para escrever casos de teste para o campo "Nome".
  
  #### Tecnologias
- - Google Chorome
- - Exel
+ - Google Chrome
+ - Excel
  - draw io Diagrams
  - Xmind
  
@@ -130,7 +130,7 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  <a href="https://docs.google.com/document/d/1CcO2g7bamChVmNam7jFHc-GndF3ezrwu/edit" target="_blank">Projeto 2 - clique aqui!</a>
  
  ##  Conclusão
- Criar mapas mentais e fluxogrmas ajudam a organização como um todo entender a aplicação ou funcionalidade, além de nos dar uma visão mais geral e holística sobre como as coisas devem funcionar. Definir classes de equivalência e criar casos de testes é muito importante quando falamos de testes, assim haverá uma boa cobertura de testes em um sistema. Foi necessaario identificar objetos de teste e decompor requisitos, ientificar áreas cinzentas nos requisitos e diferenciar entre requisitos funcionais e não funcionais. Assim concluindo o quão corretamente as técnicas de design de teste foram aplicadas e quais valores de teste foram definidos, podendo verificar quão estruturados e detalhados foram escritos os casos de teste.
+ Criar mapas mentais e fluxogramas ajudam a organização como um todo, entender a aplicação ou funcionalidade, além de nos dar uma visão mais geral e holística sobre como as coisas devem funcionar. Definir classes de equivalência e criar casos de testes é muito importante quando falamos de testes, assim haverá uma boa cobertura de testes em um sistema. Foi necessário identificar objetos de teste e decompor requisitos, ientificar áreas cinzentas nos requisitos e diferenciar entre requisitos funcionais e não funcionais. Assim, concluindo o quão corretamente as técnicas de design de teste foram aplicadas e quais valores de teste foram definidos, podendo verificar quão estruturados e detalhados foram escritos os casos de teste.
  - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>analisar requisitos, design de teste e escrever casos de teste</strong>.
  
  <img src="Imagem\Certificado-Sprint-2.png">
@@ -196,18 +196,20 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
  Parte 4 - Preparar os casos de teste para a função de locação de carro
  - Consulte a seção "Reservar carro" dos requisitos.
  <img src="Imagem\Layout-5-Sprint-3.png">
+
  #### Tecnologias
  - Google Chorome
  - Firefox
  - Figma
- - Exel
+ - Excel
  - Jira
+
  #### Projeto
  <a href="https://docs.google.com/document/d/1l_87hnNlJx_te0y8sGMiC-4p2TfzcVEC/edit" target="_blank">Projeto 3 - clique aqui!</a>
  
  ##  Conclusão
  Neste sprint, foram estudados design de testes, testes de formulário, testes funcionais e realizar testes de interface do usuário, testes de layout e criar relatórios de bugs no Jira. Habilidades para se tornar proficiente em testes de design de layout e aprimorar a atenção aos detalhes. Aprender designs de layout fornece habilidades para garantir que os designs se adaptem perfeitamente a vários tamanhos de tela e dispositivos, criando uma experiência amigável e contribuir para melhorar a qualidade de um software.
- - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>Ratreamento de bugs, Jira e Teste de interface de usuário</strong>.
+ - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>Rastreamento de bugs, Jira e Teste de interface de usuário</strong>.
  <img src="Imagem\Certificado-Sprint-3.png">
 
  ## Sprint 4 - Teste de API
@@ -246,21 +248,63 @@ No sprint 1 foi abordado alguns temas iniciais como Checklist, Relatório de bug
 
 <a href="https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/PTBR/Requisitos_para_o_back-end_do_Urban.grocers.pdf">Os requisitos do back-end estão aqui.</a>
  #### Tecnologias
- - Google Chorome
+ - Google Chrome
  - Postman
  - Jira
- - Exel
+ - Excel
  - DevTools 
  #### Projeto
  <a href="https://docs.google.com/spreadsheets/d/1v2Os2A5q8tCNPI448TDhW_Yk-lJAR5ZO/edit?gid=222111639#gid=222111639">Projeto 4 - clique aqui!</a>
  ##  Conclusão
  Neste sprint, foram estudados a criação e envio de solicitações à API via Postman,  criação de documentação e testes da API, interações de solicitação-resposta e protocolos de troca de dados, aprimoramento na capacidade de identificar problemas, todo relatório de bug possui um corpo de solicitação e um corpo de resposta. Essas informações são cruciais para reproduzir bugs relacionados à API e testar aplicativos web — front-end e back-end.
- - Neste Sprint adquiri algumas habilidades fundamentais em testes: <strong>HTTP, Teste de API e Postman</strong>.
+ - Neste Sprint adquirir algumas habilidades fundamentais em testes: <strong>HTTP, Teste de API e Postman</strong>.
  <img src="Imagem\Certificado-Sprint-4.png">
 
+## Sprint 5 - Noções básicas de Banco de Dados
+##### Capítulo 1 - Noções básicas de Banco de Dados
+- O que é uma linha de comando e como interagir com um computador através de comandos
+- Como conectar a um servidor remoto via SSH
+- O que é SQL e como você pode usá-lo para manipular dados
+- Como juntar várias tabelas usando SQL
+##### Capítulo 2 - Linha de comando
+- Introdução ao Console
+- Sistemas operacionais
+- Linha de comando
+- Conectar a um servidor remoto
+- Entendimento de onde você está
+- Exibir os conteúdos de um diretório
+- Ir de um diretório para outro
+- Gerenciar arquivos e diretórios
+- Trabalhar com arquivos de texto
+- Copiar e mover
+- Filtragem de conteúdo de arquivos
+- Dicas e truques
+- Teste: Sistemas Operacionais e o Console
+##### Capítulo 3 - Noções básicas de SQL
+- Introdução ao SQL
+- Testes de banco de dados
+- Banco de dados relacional
+- Sua primeira instrução SQL
+- Fatias de dados em SQL
+- Funções de agregação
+- Conversão de tipos de dados
+- Agrupamento de dados
+- Ordenação de dados
+- Banco de dados e console
+- Alteração de dados: INSERT
+- Alteração de dados: UPDATE
+- Alteração de dados: DELETE
+- Dump de banco de dados
+- Teste: Noções básicas de banco de dados
+#### Tecnologias
+- Google Chorome
+- Cygwin64 Terminal
+- ##  Conclusão
+Neste sprint foi possível trabalhar com a linha de comando e bancos de dados, se conectar a um servidor remoto, visualizar, criar e editar arquivos usando a linha de comando, escrever solicitações SQL, chamar funções de agregação, converter os tipos de dados com a construção CAST, agrupar e ordenar dados, alterar dados e criar dumps
+
  ## Sprint 6 - Projeto final
-Neste projeto foi realizado três tarefas grandes e testar aplicativos da web e APIs. Utilizando o aplicativo Urban.Scoote, um serviço que permite alugar uma scooter elétrica por alguns dias.
-- Dividir os recursos em blocos atômicos e defina objetos de teste.
+Neste projeto foram realizadas três tarefas grandes e testar aplicativos da web e APIs. Utilizando o aplicativo Urban.Scoote, um serviço que permite alugar uma scooter elétrica por alguns dias.
+- Dividir os recursos em blocos atômicos e definir objetos de teste.
 - Fazer o design de testes para lidar com todos os requisitos.
 - Aplique classes de equivalência, valores-limite e uma tabela de decisão quando apropriado.
 - Otimize o número de testes nos testes de interface de usuário e testes lógicos dos recursos.
@@ -284,15 +328,17 @@ Parte 3 - lista de verificação
 - Crie um checklist e teste a API em relação aos requisitos em negrito.
 
 #### Tecnologias
-- Google Chorome
+- Google Chrome
 - Firefox
 - Figma
 - Postman
 - Jira
-- Exel
+- Excel
 
 #### Projeto
 <a href="https://docs.google.com/spreadsheets/d/1SZEBHCgPw29HALzu5Z8rQ2_EPCDEJj9z/edit?gid=1577317816#gid=1577317816">Projeto Final</a>
 
 ## Conclusão
-Neste projeto, foi possível decompor os requisitos e fazer o design de testes, dividir os recursos em blocos atômicos e defina objetos de teste, fazer o design de testes para lidar com todos os requisitos, aplicar o conhecimento de classes de equivalência, valores-limite e uma tabela de decisão quando necessário, otimizar o número de testes nos testes de interface de usuário e testes lógicos dos recursos, executaar testes e relatórios de bug e usar Postman para verificar solicitações para determinadas URLs, utilizando todo o aprendizados adiquiridos nos sprinnts anteriores, finalizando assim oo curso de Analista de QA.
+Neste projeto, foi possível decompor os requisitos e fazer o design de testes, dividir os recursos em blocos atômicos e defina objetos de teste, fazer o design de testes para lidar com todos os requisitos, aplicar o conhecimento de classes de equivalência, valores-limite e uma tabela de decisão quando necessário, otimizar o número de testes nos testes de interface de usuário e testes lógicos dos recursos, executar testes e relatórios de bug e usar Postman para verificar solicitações para determinadas URLs, utilizando todo o aprendizados adquiridos nos sprints anteriores, finalizando assim o curso de Analista de QA.
+ - Neste Sprint conclui o bootcamp e exerci algumas habilidades fundamentais para me tornar um: <strong>Analista de  QA</strong>.
+ <img src="Imagens\Certificado-Sprint-6.png">
